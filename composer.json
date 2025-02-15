@@ -1,5 +1,5 @@
 {
-    "name": "dakin-judi/feexpay-php",
+    "name": "dakin/feexpay-php",
     "description": "A PHP library for FeexPay",
     "type": "library",
     "require": {},
