@@ -1,21 +1,11 @@
 {
-    "name": "feexpay/feexpay-php",
-    "description": "Php sdk of Feexpay - Online payment solution by credit card and mobile money\"",
+    "name": "dakin-judi/feexpay-php",
+    "description": "A PHP library for FeexPay",
     "type": "library",
-    "license": "MIT",
-    "extra": {
-        "version": "1.0.12"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
-            "Feexpay\\FeexpayPhp\\": "src/"
+            "Feexpay\\": "src/"
         }
-    },
-    "authors": [
-        {
-            "name": "LOUGBEGNON",
-            "email": "amedeelougbegnon3@gmail.com"
-        }
-    ],
-    "require": {}
+    }
 }
