@@ -1,0 +1,11 @@
+{
+    "name": "dakin/feexpay-php",
+    "description": "A PHP library for FeexPay",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dakin\\FeexpayPhp\\": "src/"
+        }
+    }
+}
